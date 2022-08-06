@@ -24,7 +24,14 @@ employees who are eligible for retirement. It includes each employees’ full na
 
 - The mentorship eligibility table holds the employees born in 1965 who are equipped to be trained by their senior co-workers to fill the soon to be empty roles from those retiring. There are 1,549 employees who qualify for the mentorship program.
 - The retiring titles and mentor-eligible titles tables are strikingly different in values. There are not enough eligible employees to fulfill the roles of those retiring. 
-Include picture
+
+[retired_titles](https://user-images.githubusercontent.com/106783452/183227844-1c2b1334-1e04-49fc-90ea-adcd379bd830.png)
+![mentor_count_titles](https://user-images.githubusercontent.com/106783452/183227875-e49bf23b-af01-40ad-8f19-dac7b2c28263.png)
+
+
+
+
+
 
 
 ## Employee Database Analysis 
