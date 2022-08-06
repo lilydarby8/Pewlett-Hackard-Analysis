@@ -9,6 +9,13 @@
 ## Employee Database Results
 - The “unique titles” table shows that there are 90,398
 employees who are eligible for retirement. It includes each employees’ full name, employee number, and title. 
+![unique_titles](https://user-images.githubusercontent.com/106783452/183227829-5b6caf76-f859-4963-9a25-f27b1fd0bcab.png)
+
+
+
+
+
+
 - The “retiring titles” table is helpful because it groups together all the employees who will be retiring and their titles. Each title has a number preceding it to show how many employees from each title will be retiring.
 Include picture
 - The mentorship eligibility table holds the employees born in 1965 who are equipped to be trained by their senior co-workers to fill the soon to be empty roles from those retiring. There are 1,549 employees who qualify for the mentorship program.
