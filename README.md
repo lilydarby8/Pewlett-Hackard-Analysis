@@ -26,6 +26,11 @@ employees who are eligible for retirement. It includes each employees’ full na
 - The retiring titles and mentor-eligible titles tables are strikingly different in values. There are not enough eligible employees to fulfill the roles of those retiring. 
 
 [retired_titles](https://user-images.githubusercontent.com/106783452/183227844-1c2b1334-1e04-49fc-90ea-adcd379bd830.png)
+
+
+
+
+
 ![mentor_count_titles](https://user-images.githubusercontent.com/106783452/183227875-e49bf23b-af01-40ad-8f19-dac7b2c28263.png)
 
 
