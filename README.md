@@ -16,7 +16,11 @@ employees who are eligible for retirement. It includes each employees’ full na
 
 
 
-- The “retiring titles” table is helpful because it groups together all the employees who will be retiring and their titles. Each title has a number preceding it to show how many employees from each title will be retiring.
+- The “retiring titles” table is helpful because it groups together all the employees who will be retiring and their titles. Each title has a number preceding it to show how many employees from each title will be retiring. ![retired_titles](https://user-images.githubusercontent.com/106783452/183227844-1c2b1334-1e04-49fc-90ea-adcd379bd830.png)
+
+
+
+
 Include picture
 - The mentorship eligibility table holds the employees born in 1965 who are equipped to be trained by their senior co-workers to fill the soon to be empty roles from those retiring. There are 1,549 employees who qualify for the mentorship program.
 - The retiring titles and mentor-eligible titles tables are strikingly different in values. There are not enough eligible employees to fulfill the roles of those retiring. 
